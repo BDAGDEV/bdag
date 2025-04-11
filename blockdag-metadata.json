@@ -3,6 +3,14 @@
   "symbol": "BDAG",
   "description": "The official token of the BlockDAG network.",
   "image": "https://raw.githubusercontent.com/BDAGDEV/bdag/refs/heads/main/BlockDAG.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "CvUGFh7svYZT13YEtxRSxDejLbz5aWCs8wo6eEQ94ZPx",
+      "share": 100,
+      "verified": true
+    }
+  ],
   "properties": {
     "category": "image",
     "files": [
