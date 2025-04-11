@@ -1,22 +1,14 @@
 {
-  "name": "BLOCKDAG",
+  "name": "BlockDAG",
   "symbol": "BDAG",
-  "description": "BLOCKDAG is a decentralized token on Solana.",
-  "image": "https://raw.githubusercontent.com/BDAGDEV/bdag/main/BlockDAG.png",
-  "seller_fee_basis_points": 0,
-  "attributes": [],
+  "description": "The official token of the BlockDAG network.",
+  "image": "https://raw.githubusercontent.com/BDAGDEV/bdag/refs/heads/main/BlockDAG.png",
   "properties": {
+    "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/BDAGDEV/bdag/main/BlockDAG.png",
+        "uri": "https://raw.githubusercontent.com/BDAGDEV/bdag/refs/heads/main/BlockDAG.png",
         "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "CvUGFh7svYZT13YEtxRSxDejLbz5aWCs8wo6eEQ94ZPx",
-        "share": 100
       }
     ]
   }
